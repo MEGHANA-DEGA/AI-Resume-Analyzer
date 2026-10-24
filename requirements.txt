@@ -3,3 +3,6 @@ pandas
 scikit-learn
 pdfplumber
 python-docx
+PyPDF2
+spacy
+openai
