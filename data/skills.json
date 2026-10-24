@@ -1,0 +1,24 @@
+
+{
+  "Python Developer": [
+    "python",
+    "sql",
+    "git",
+    "flask",
+    "django"
+  ],
+  "Data Analyst": [
+    "python",
+    "sql",
+    "excel",
+    "power bi",
+    "tableau",
+    "data analysis"
+  ],
+  "Machine Learning Engineer": [
+    "python",
+    "sql",
+    "machine learning",
+    "data analysis"
+  ]
+}
